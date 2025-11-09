@@ -9,7 +9,7 @@ export default function Navbar() {
             <span className="inline-flex h-8 w-8 items-center justify-center rounded-md bg-indigo-600 text-white">
               <Rocket size={18} />
             </span>
-            Flames Digital
+            Nivara Studio
           </a>
           <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-700">
             <a href="#products" className="hover:text-gray-900">Produk</a>

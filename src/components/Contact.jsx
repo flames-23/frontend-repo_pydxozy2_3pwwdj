@@ -6,11 +6,11 @@ export default function Contact() {
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid lg:grid-cols-2 gap-10 items-start">
           <div>
-            <h2 className="text-3xl font-bold tracking-tight text-gray-900">Butuh Demo atau Penawaran?</h2>
-            <p className="mt-2 text-gray-600">Hubungi kami untuk konsultasi gratis. Jelaskan kebutuhan Anda, kami siapkan solusi terbaik.</p>
+            <h2 className="text-3xl font-bold tracking-tight text-gray-900">Hubungi Nivara Studio</h2>
+            <p className="mt-2 text-gray-600">Konsultasikan kebutuhan tool untuk channel YouTube Anda. Kami siap bantu dari ide hingga implementasi.</p>
             <ul className="mt-6 space-y-3 text-sm text-gray-700">
               <li className="flex items-center gap-2"><Phone size={18} className="text-indigo-600"/> +62-812-3456-7890</li>
-              <li className="flex items-center gap-2"><Mail size={18} className="text-indigo-600"/> support@flamesdigital.co</li>
+              <li className="flex items-center gap-2"><Mail size={18} className="text-indigo-600"/> hello@nivarastudio.com</li>
               <li className="flex items-center gap-2"><MessageSquare size={18} className="text-indigo-600"/> Chat via WhatsApp</li>
             </ul>
           </div>
